@@ -28,7 +28,7 @@ This project is a console-based application for managing customer details at ABC
 
 1. Run the application:
     ```sh
-    python bank_system.py
+    python customer.py
     ```
 
 2. Follow the on-screen menu to navigate through the different features.
